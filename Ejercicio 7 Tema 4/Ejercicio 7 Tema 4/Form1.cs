@@ -20,7 +20,7 @@ namespace Ejercicio_7_Tema_4
         int calculaMenor(int num1, int num2)
         {
             int res = num2;
-            if (num1 <= num2)
+            if (num1 >= num2)
             {
                 res = num1;
             }
@@ -29,18 +29,18 @@ namespace Ejercicio_7_Tema_4
         //Una función que calcule el MCD.
         int calculaMCD(int num1, int num2)
         {
-            int mcd = 1;
+            int mcd = 0;
 
-            int menor = calculaMenor(num1, num2);
+            int menor = calculaMenor(num1, num1);
 
             int mayor = num1;
             if (menor == num1)
             {
                 mayor = num2;
             }
-            for (int i = 1; i <= menor; i++)
+            for (int i = 1; i < menor; i++)
             {
-                if (menor % i == 0 && mayor % i == 0)
+                if (menor % i == 0 || mayor % i == 0)
                 {
                     mcd = i;
                 }
@@ -56,9 +56,9 @@ namespace Ejercicio_7_Tema_4
             num1 = int.Parse(txtNum1.Text);
             num2 = int.Parse(txtNum2.Text);
 
-            resultado = calculaMCD(num1, num2);
+            resultado = calculaMCD(num1, num1);
 
-            MessageBox.Show("El MCD de " + num1 + " y " + num2 + " es " + resultado);
+            MessageBox.Show("El MCD de " + num1 + " y " + num1 + " es " + resultado);
         }
     }
 }

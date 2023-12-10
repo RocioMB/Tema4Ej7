@@ -9,3 +9,13 @@ C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA
 C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 4\EJERCICIOS\Ejercicio 7 Tema 4\Ejercicio 7 Tema 4\obj\Debug\Ejercicio 7 Tema 4.csproj.CoreCompileInputs.cache
 C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 4\EJERCICIOS\Ejercicio 7 Tema 4\Ejercicio 7 Tema 4\obj\Debug\Ejercicio 7 Tema 4.exe
 C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 4\EJERCICIOS\Ejercicio 7 Tema 4\Ejercicio 7 Tema 4\obj\Debug\Ejercicio 7 Tema 4.pdb
+F:\devel daw\Tema4Ej7\Ejercicio 7 Tema 4\Ejercicio 7 Tema 4\bin\Debug\Ejercicio 7 Tema 4.exe.config
+F:\devel daw\Tema4Ej7\Ejercicio 7 Tema 4\Ejercicio 7 Tema 4\bin\Debug\Ejercicio 7 Tema 4.exe
+F:\devel daw\Tema4Ej7\Ejercicio 7 Tema 4\Ejercicio 7 Tema 4\bin\Debug\Ejercicio 7 Tema 4.pdb
+F:\devel daw\Tema4Ej7\Ejercicio 7 Tema 4\Ejercicio 7 Tema 4\obj\Debug\Ejercicio 7 Tema 4.csproj.AssemblyReference.cache
+F:\devel daw\Tema4Ej7\Ejercicio 7 Tema 4\Ejercicio 7 Tema 4\obj\Debug\Ejercicio_7_Tema_4.Form1.resources
+F:\devel daw\Tema4Ej7\Ejercicio 7 Tema 4\Ejercicio 7 Tema 4\obj\Debug\Ejercicio_7_Tema_4.Properties.Resources.resources
+F:\devel daw\Tema4Ej7\Ejercicio 7 Tema 4\Ejercicio 7 Tema 4\obj\Debug\Ejercicio 7 Tema 4.csproj.GenerateResource.cache
+F:\devel daw\Tema4Ej7\Ejercicio 7 Tema 4\Ejercicio 7 Tema 4\obj\Debug\Ejercicio 7 Tema 4.csproj.CoreCompileInputs.cache
+F:\devel daw\Tema4Ej7\Ejercicio 7 Tema 4\Ejercicio 7 Tema 4\obj\Debug\Ejercicio 7 Tema 4.exe
+F:\devel daw\Tema4Ej7\Ejercicio 7 Tema 4\Ejercicio 7 Tema 4\obj\Debug\Ejercicio 7 Tema 4.pdb
