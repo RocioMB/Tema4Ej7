@@ -49,16 +49,16 @@ namespace Ejercicio_7_Tema_4
         }
         private void mcdBtn_Click(object sender, EventArgs e)
         {
-            int num1;
-            int num2;
+            int num1RMB2324;
+            int num2RMB2324;
             int resultado;
 
-            num1 = int.Parse(txtNum1.Text);
-            num2 = int.Parse(txtNum2.Text);
+            num1RMB2324 = int.Parse(txtNum1.Text);
+            num2RMB2324 = int.Parse(txtNum2.Text);
 
-            resultado = calculaMCD(num1, num1);
+            resultado = calculaMCD(num1RMB2324, num1RMB2324);
 
-            MessageBox.Show("El MCD de " + num1 + " y " + num1 + " es " + resultado);
+            MessageBox.Show("El MCD de " + num1RMB2324 + " y " + num1RMB2324 + " es " + resultado);
         }
     }
 }
