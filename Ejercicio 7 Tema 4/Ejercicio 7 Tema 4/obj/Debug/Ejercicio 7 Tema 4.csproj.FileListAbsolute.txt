@@ -1,0 +1,11 @@
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 4\EJERCICIOS\Ejercicio 7 Tema 4\Ejercicio 7 Tema 4\bin\Debug\Ejercicio 7 Tema 4.exe.config
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 4\EJERCICIOS\Ejercicio 7 Tema 4\Ejercicio 7 Tema 4\bin\Debug\Ejercicio 7 Tema 4.exe
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 4\EJERCICIOS\Ejercicio 7 Tema 4\Ejercicio 7 Tema 4\bin\Debug\Ejercicio 7 Tema 4.pdb
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 4\EJERCICIOS\Ejercicio 7 Tema 4\Ejercicio 7 Tema 4\obj\Debug\Ejercicio 7 Tema 4.csproj.AssemblyReference.cache
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 4\EJERCICIOS\Ejercicio 7 Tema 4\Ejercicio 7 Tema 4\obj\Debug\Ejercicio 7 Tema 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 4\EJERCICIOS\Ejercicio 7 Tema 4\Ejercicio 7 Tema 4\obj\Debug\Ejercicio_7_Tema_4.Form1.resources
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 4\EJERCICIOS\Ejercicio 7 Tema 4\Ejercicio 7 Tema 4\obj\Debug\Ejercicio_7_Tema_4.Properties.Resources.resources
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 4\EJERCICIOS\Ejercicio 7 Tema 4\Ejercicio 7 Tema 4\obj\Debug\Ejercicio 7 Tema 4.csproj.GenerateResource.cache
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 4\EJERCICIOS\Ejercicio 7 Tema 4\Ejercicio 7 Tema 4\obj\Debug\Ejercicio 7 Tema 4.csproj.CoreCompileInputs.cache
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 4\EJERCICIOS\Ejercicio 7 Tema 4\Ejercicio 7 Tema 4\obj\Debug\Ejercicio 7 Tema 4.exe
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 4\EJERCICIOS\Ejercicio 7 Tema 4\Ejercicio 7 Tema 4\obj\Debug\Ejercicio 7 Tema 4.pdb
